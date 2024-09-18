@@ -53,6 +53,7 @@ The project includes end-to-end tests using Cypress to ensure the editor behaves
 - **Italic Styling**: Ensures that italic styles are correctly applied to selected text.
 
 
+
 ### Demo Video
 
 Link: https://drive.google.com/file/d/1QGhOFjEWKpMZ_r07PXVJpFcUJqA0Xyr-/view?usp=sharing
